@@ -11,15 +11,14 @@ author_profile: true
 
 {% include base_path %}
 
-### [Diagnosing model performance under distribution shift](http://https://arxiv.org/abs/2303.02011) 
-
-[GitHub link](https://github.com/namkoong-lab/disde)
+## Diagnosing model performance under distribution shift
+[Paper link](http://https://arxiv.org/abs/2303.02011), [GitHub link](https://github.com/namkoong-lab/disde)
 
 Under revision at [Operations
 Research](https://pubsonline.informs.org/journal/opre); presented at [FORC 2023](https://responsiblecomputing.org/forc-2023/), [INFORMS 2023](https://meetings.informs.org/wordpress/phoenix2023/)
 
 
-### C-Learner: Constrained Learning for Causal Inference
+## C-Learner: Constrained Learning for Causal Inference
 
 Presented at [CODE@MIT
 2023](https://ide.mit.edu/events/2023-conference-on-digital-experimentation-mit-codemit/)
