@@ -11,9 +11,6 @@ author_profile: true
 
 {% include base_path %}
 
-      <a href="http://https://arxiv.org/abs/2303.02011">Diagnosing Model
-          Performance Under Distribution Shift</a> 
-      <a href="https://github.com/tc2718/disde" title="GitHub"><i class="fab
-fa-github"></i></a>
+[Diagnosing model performance under distribution shift](http://https://arxiv.org/abs/2303.02011) [GitHub link](https://github.com/namkoong-lab/disde)
 
 
