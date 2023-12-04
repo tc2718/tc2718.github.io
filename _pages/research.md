@@ -13,6 +13,7 @@ author_profile: true
 
 ## Diagnosing model performance under distribution shift
 **Tiffany Cai**, Steve Yadlowsky, Hongseok Namkoong
+
 [Paper link](http://https://arxiv.org/abs/2303.02011), [GitHub link](https://github.com/namkoong-lab/disde)
 
 Under revision at [Operations
@@ -21,6 +22,7 @@ Research](https://pubsonline.informs.org/journal/opre); presented at [FORC 2023]
 
 ## C-Learner: constrained learning for causal inference
 **Tiffany Cai**, Yuri Fonseca, Kaiwen Hou, Hongseok Namkoong
+
 Forthcoming
 
 Presented at [CODE@MIT
