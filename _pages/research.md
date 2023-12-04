@@ -18,7 +18,8 @@ Under revision at [Operations
 Research](https://pubsonline.informs.org/journal/opre); presented at [FORC 2023](https://responsiblecomputing.org/forc-2023/), [INFORMS 2023](https://meetings.informs.org/wordpress/phoenix2023/)
 
 
-## C-Learner: Constrained Learning for Causal Inference
+## C-Learner: constrained learning for causal inference
+Forthcoming
 
 Presented at [CODE@MIT
 2023](https://ide.mit.edu/events/2023-conference-on-digital-experimentation-mit-codemit/)
