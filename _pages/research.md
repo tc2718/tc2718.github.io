@@ -14,7 +14,7 @@ author_profile: true
 ## Diagnosing model performance under distribution shift
 **Tiffany Cai**, Steve Yadlowsky, Hongseok Namkoong
 
-[Paper link](http://https://arxiv.org/abs/2303.02011), [GitHub link](https://github.com/namkoong-lab/disde)
+[Paper link](https://arxiv.org/abs/2303.02011), [GitHub link](https://github.com/namkoong-lab/disde)
 
 Under revision at [Operations
 Research](https://pubsonline.informs.org/journal/opre); presented at [FORC 2023](https://responsiblecomputing.org/forc-2023/), [INFORMS 2023](https://meetings.informs.org/wordpress/phoenix2023/)
