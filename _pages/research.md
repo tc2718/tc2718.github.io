@@ -20,8 +20,8 @@ Under revision at [Operations
 Research](https://pubsonline.informs.org/journal/opre); presented at [FORC 2023](https://responsiblecomputing.org/forc-2023/), [INFORMS 2023](https://meetings.informs.org/wordpress/phoenix2023/)
 
 
-## C-Learner: constrained learning for causal inference
-**Tiffany Cai**, Yuri Fonseca, Kaiwen Hou, Hongseok Namkoong
+## Constrained Learning for Causal Inference and Semiparametric Statistics
+**Tiffany Cai\***, Yuri Fonseca\*, Kaiwen Hou, Hongseok Namkoong
 
 Forthcoming
 
