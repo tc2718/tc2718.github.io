@@ -11,7 +11,7 @@ author_profile: true
 
 {% include base_path %}
 
-## Diagnosing model performance under distribution shift
+## Diagnosing Model Performance Under Distribution Shift
 **Tiffany Cai**, Steve Yadlowsky, Hongseok Namkoong
 
 [Paper link](https://arxiv.org/abs/2303.02011), [GitHub link](https://github.com/namkoong-lab/disde)
@@ -28,3 +28,10 @@ Forthcoming
 Presented at [CODE@MIT
 2023](https://ide.mit.edu/events/2023-conference-on-digital-experimentation-mit-codemit/)
 
+
+## Tutorial: Modeling and Exploiting Data Heterogeneity under Distribution Shifts
+Jiashuo Liu, **Tiffany Cai**, Peng Cui, Hongseok Namkoong
+
+[Tutorial link](https://neurips.cc/virtual/2023/tutorial/73953)
+
+Presented at NeurIPS 2023
