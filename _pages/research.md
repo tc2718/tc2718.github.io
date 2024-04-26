@@ -14,40 +14,40 @@ author_profile: true
 ## Diagnosing Model Performance Under Distribution Shift
 **Tiffany Cai**, Steve Yadlowsky, Hongseok Namkoong
 
-<details>
-  <summary>Summary</summary>
-When a model performs poorly out of distribution, how do we understand why performance became worse? We attribute change in model performance across distributions to X shifts and Y\|X shifts. 
-</details>
 [Paper link](https://arxiv.org/abs/2303.02011), [GitHub link](https://github.com/namkoong-lab/disde)
 
 
 Under revision at [Operations
 Research](https://pubsonline.informs.org/journal/opre); presented at [FORC 2023](https://responsiblecomputing.org/forc-2023/), [INFORMS 2023](https://meetings.informs.org/wordpress/phoenix2023/)
+<details>
+  <summary>Summary</summary>
+When a model performs poorly out of distribution, how do we understand why performance became worse? We attribute change in model performance across distributions to X shifts and Y\|X shifts. 
+</details>
 
 ## Posterior Sampling via Autoregressive Generation
 Kelly Wang Zhang\*, **Tiffany Cai\***, Hongseok Namkoong, Daniel Russo
 
 
-<details>
-  <summary>Summary</summary>
-We recast the problem of principled decision-making under uncertainty (Thompson Sampling) as autoregressive sequential modeling, trained via loss minimization.  
-</details>
 Forthcoming
 
 To be presented at [ICLR 2024 Workshop: Generative Models for Decision
 Making](https://sites.google.com/view/genai4dm-iclr2024)
+<details>
+  <summary>Summary</summary>
+We recast the problem of principled decision-making under uncertainty (Thompson Sampling) as autoregressive sequential modeling, trained via loss minimization.  
+</details>
 
 ## Constrained Learning for Causal Inference and Semiparametric Statistics
 **Tiffany Cai\***, Yuri Fonseca\*, Kaiwen Hou, Hongseok Namkoong
 
-<details>
-  <summary>Summary</summary>
-We recast the problem of creating asymptotically efficient estimators for the average treatment effect as constrained optimization. 
-</details>
 Forthcoming
 
 Presented at [CODE@MIT
 2023](https://ide.mit.edu/events/2023-conference-on-digital-experimentation-mit-codemit/)
+<details>
+  <summary>Summary</summary>
+We recast the problem of creating asymptotically efficient estimators for the average treatment effect as constrained optimization. 
+</details>
 
 
 ## Tutorial: Modeling and Exploiting Data Heterogeneity under Distribution Shifts
