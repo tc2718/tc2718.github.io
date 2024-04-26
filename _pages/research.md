@@ -14,7 +14,7 @@ author_profile: true
 ## Diagnosing Model Performance Under Distribution Shift
 **Tiffany Cai**, Steve Yadlowsky, Hongseok Namkoong
 
-<details open>
+<details>
   <summary>Summary</summary>
 When a model performs poorly out of distribution, how do we understand why performance became worse? We attribute change in model performance across distributions to X shifts and Y\|X shifts. 
 </details>
@@ -28,9 +28,9 @@ Research](https://pubsonline.informs.org/journal/opre); presented at [FORC 2023]
 Kelly Wang Zhang\*, **Tiffany Cai\***, Hongseok Namkoong, Daniel Russo
 
 
-<details open>
+<details>
   <summary>Summary</summary>
-We recast the problem of principled decision-making under uncertainty (Thompson Sampling) as autoregressive sequential modeling. 
+We recast the problem of principled decision-making under uncertainty (Thompson Sampling) as autoregressive sequential modeling, trained via loss minimization.  
 </details>
 Forthcoming
 
@@ -40,7 +40,7 @@ Making](https://sites.google.com/view/genai4dm-iclr2024)
 ## Constrained Learning for Causal Inference and Semiparametric Statistics
 **Tiffany Cai\***, Yuri Fonseca\*, Kaiwen Hou, Hongseok Namkoong
 
-<details open>
+<details>
   <summary>Summary</summary>
 We recast the problem of creating asymptotically efficient estimators for the average treatment effect as constrained optimization. 
 </details>
