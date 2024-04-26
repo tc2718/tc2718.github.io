@@ -14,7 +14,7 @@ author_profile: true
 ## Diagnosing Model Performance Under Distribution Shift
 **Tiffany Cai**, Steve Yadlowsky, Hongseok Namkoong
 
-> When a model performs poorly out of distribution, how do we understand why performance became worse? We attribute change in model performance across distributions to X shifts and Y|X shifts. 
+> When a model performs poorly out of distribution, how do we understand why performance became worse? We attribute change in model performance across distributions to X shifts and Y\|X shifts. 
 
 [Paper link](https://arxiv.org/abs/2303.02011), [GitHub link](https://github.com/namkoong-lab/disde)
 
