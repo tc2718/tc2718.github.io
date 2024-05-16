@@ -40,6 +40,8 @@ We recast the problem of principled decision-making under uncertainty (Thompson 
 ## Constrained Learning for Causal Inference and Semiparametric Statistics
 **Tiffany Cai\***, Yuri Fonseca\*, Kaiwen Hou, Hongseok Namkoong
 
+[Paper link](http://arxiv.org/abs/2405.09493)
+
 Forthcoming
 
 Presented at [CODE@MIT
