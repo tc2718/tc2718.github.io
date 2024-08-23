@@ -30,9 +30,9 @@ Kelly Wang Zhang\*, **Tiffany Cai\***, Hongseok Namkoong, Daniel Russo
 
 [Paper link](https://arxiv.org/abs/2405.19466)
 
-Presented at [ICLR 2024 Workshop: Generative Models for Decision
+Poster at [ICLR 2024 Workshop: Generative Models for Decision
 Making](https://sites.google.com/view/genai4dm-iclr2024)
-and [ESIF
+and talk at [ESIF
 2024](https://www.econometricsociety.org/regional-activities/schedule/2024/08/13/2024-ESIFEconomics-and-AIML-Meeting)
 <details>
   <summary>Summary</summary>
@@ -46,8 +46,9 @@ We recast the problem of principled decision-making under uncertainty (Thompson 
 
 Forthcoming
 
-Presented at [CODE@MIT
+Poster at [CODE@MIT
 2023](https://ide.mit.edu/events/2023-conference-on-digital-experimentation-mit-codemit/)
+and [ACIC 2024](https://sci-info.org/annual-meeting/)
 <details>
   <summary>Summary</summary>
 We recast the problem of creating asymptotically efficient estimators for the average treatment effect as constrained optimization. 
