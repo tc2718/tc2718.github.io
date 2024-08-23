@@ -32,8 +32,7 @@ Kelly Wang Zhang\*, **Tiffany Cai\***, Hongseok Namkoong, Daniel Russo
 
 Poster at [ICLR 2024 Workshop: Generative Models for Decision
 Making](https://sites.google.com/view/genai4dm-iclr2024)
-and talk at [ESIF
-2024](https://www.econometricsociety.org/regional-activities/schedule/2024/08/13/2024-ESIFEconomics-and-AIML-Meeting)
+and talk at [2024 Economics and AI+ML Meeting](https://www.econometricsociety.org/regional-activities/schedule/2024/08/13/2024-ESIFEconomics-and-AIML-Meeting)
 <details>
   <summary>Summary</summary>
 We recast the problem of principled decision-making under uncertainty (Thompson Sampling) as autoregressive sequential modeling, trained via loss minimization.  
