@@ -11,21 +11,24 @@ author_profile: true
 
 {% include base_path %}
 
-## Diagnosing Model Performance Under Distribution Shift
-**Tiffany Cai**, Steve Yadlowsky, Hongseok Namkoong
+## Constrained Learning for Causal Inference and Semiparametric Statistics
+**Tiffany Cai\***, Yuri Fonseca\*, Kaiwen Hou, Hongseok Namkoong (* denotes co-first authorship)
 
-[Paper link](https://arxiv.org/abs/2303.02011), [GitHub link](https://github.com/namkoong-lab/disde)
+[Paper link](http://arxiv.org/abs/2405.09493)
 
+Forthcoming
 
-Under revision at [Operations
-Research](https://pubsonline.informs.org/journal/opre); presented at [FORC 2023](https://responsiblecomputing.org/forc-2023/), [INFORMS 2023](https://meetings.informs.org/wordpress/phoenix2023/)
+Poster at [CODE@MIT
+2024](https://ide.mit.edu/events/code24/)
+and [ACIC 2024](https://sci-info.org/annual-meeting/)
 <details>
   <summary>Summary</summary>
-When a model performs poorly out of distribution, how do we understand why performance became worse? We attribute change in model performance across distributions to X shifts and Y\|X shifts. 
+We recast the problem of creating asymptotically efficient estimators for the average treatment effect as constrained optimization. 
 </details>
 
+
 ## Posterior Sampling via Autoregressive Generation
-Kelly Wang Zhang\*, **Tiffany Cai\***, Hongseok Namkoong, Daniel Russo
+Kelly Wang Zhang\*, **Tiffany Cai\***, Hongseok Namkoong, Daniel Russo (* denotes co-first authorship)
 
 
 [Paper link](https://arxiv.org/abs/2405.19466)
@@ -38,19 +41,19 @@ and talk at [2024 Economics and AI+ML Meeting](https://www.econometricsociety.or
 We recast the problem of principled decision-making under uncertainty (Thompson Sampling) as autoregressive sequential modeling, trained via loss minimization.  
 </details>
 
-## Constrained Learning for Causal Inference and Semiparametric Statistics
-**Tiffany Cai\***, Yuri Fonseca\*, Kaiwen Hou, Hongseok Namkoong
 
-[Paper link](http://arxiv.org/abs/2405.09493)
 
-Forthcoming
+## Diagnosing Model Performance Under Distribution Shift
+**Tiffany Cai**, Steve Yadlowsky, Hongseok Namkoong
 
-Poster at [CODE@MIT
-2023](https://ide.mit.edu/events/2023-conference-on-digital-experimentation-mit-codemit/)
-and [ACIC 2024](https://sci-info.org/annual-meeting/)
+[Paper link](https://arxiv.org/abs/2303.02011), [GitHub link](https://github.com/namkoong-lab/disde)
+
+
+Under revision at [Operations
+Research](https://pubsonline.informs.org/journal/opre); presented at [FORC 2023](https://responsiblecomputing.org/forc-2023/), [INFORMS 2023](https://meetings.informs.org/wordpress/phoenix2023/)
 <details>
   <summary>Summary</summary>
-We recast the problem of creating asymptotically efficient estimators for the average treatment effect as constrained optimization. 
+When a model performs poorly out of distribution, how do we understand why performance became worse? We attribute change in model performance across distributions to X shifts and Y\|X shifts. 
 </details>
 
 
