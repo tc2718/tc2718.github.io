@@ -23,7 +23,12 @@ Poster at [CODE@MIT
 and [ACIC 2024](https://sci-info.org/annual-meeting/)
 <details>
   <summary>Summary</summary>
-We recast the problem of creating asymptotically efficient estimators for the average treatment effect as constrained optimization. 
+In challenging settings with limited overlap between treatment and control, causal estimators with
+desirable asymptotic properties require ad hoc adjustments in order to produce stable estimates. In
+contrast, simple plug-in estimators produce stable estimates but lack important asymptotic properties.
+
+We propose a new estimation framework, using constrained optimization, that combines the best of
+both worlds, and demonstrate its superior performance across settings, including with text covariates.
 </details>
 
 
@@ -33,12 +38,16 @@ Kelly Wang Zhang\*, **Tiffany Cai\***, Hongseok Namkoong, Daniel Russo (* denote
 
 [Paper link](https://arxiv.org/abs/2405.19466)
 
-Poster at [ICLR 2024 Workshop: Generative Models for Decision
-Making](https://sites.google.com/view/genai4dm-iclr2024)
+Poster at [Neurips 2024 Workshop: Bayesian Decision-Making and Uncertainty](https://gp-seminar-series.github.io/neurips-2024/)
 and talk at [2024 Economics and AI+ML Meeting](https://www.econometricsociety.org/regional-activities/schedule/2024/08/13/2024-ESIFEconomics-and-AIML-Meeting)
 <details>
   <summary>Summary</summary>
-We recast the problem of principled decision-making under uncertainty (Thompson Sampling) as autoregressive sequential modeling, trained via loss minimization.  
+We propose a scalable solution to the problem of decision-making under uncertainty in a meta-bandit
+setting by using a calibrated generative model to impute a sequence of missing (e.g. future) rewards.
+
+Our proposed method is a principled implementation of Thompson (a.k.a. posterior) sampling.
+We prove decision-making performance is controlled by the log loss of the generative model, and we
+demonstrate on a news recommendation setting with text covariates.
 </details>
 
 
@@ -53,7 +62,11 @@ Under revision at [Operations
 Research](https://pubsonline.informs.org/journal/opre); presented at [FORC 2023](https://responsiblecomputing.org/forc-2023/), [INFORMS 2023](https://meetings.informs.org/wordpress/phoenix2023/)
 <details>
   <summary>Summary</summary>
-When a model performs poorly out of distribution, how do we understand why performance became worse? We attribute change in model performance across distributions to X shifts and Y\|X shifts. 
+When your model performs worse out of distribution, should you use a domain adaptation method, or
+do you need to collect more data? If the latter, from where should you collect more data?
+
+We propose a new diagnostic using causal inference methods to attribute changes in performance to
+X shifts and Y|X shifts. We demonstrate its utility in settings with tabular and image data.
 </details>
 
 
