@@ -32,8 +32,8 @@ both worlds, and demonstrate its superior performance across settings, including
 </details>
 
 
-## Posterior Sampling via Autoregressive Generation
-Kelly Wang Zhang\*, **Tiffany Cai\***, Hongseok Namkoong, Daniel Russo (* denotes co-first authorship)
+## Active Exploration via Autoregressive Generation of Missing Data
+**Tiffany Cai**, Hongseok Namkoong, Daniel Russo, Kelly W Zhang (authors listed in alphabetical order, project led by Kelly and Tiffany)
 
 
 [Paper link](https://arxiv.org/abs/2405.19466)
