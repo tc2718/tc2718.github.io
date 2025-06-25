@@ -14,7 +14,7 @@ author_profile: true
 ## Constrained Learning for Causal Inference (job market paper)
 **Tiffany Cai\***, Yuri Fonseca\*, Kaiwen Hou, Hongseok Namkoong (* denotes co-first authorship)
 
-[Paper link](http://arxiv.org/abs/2405.09493)
+[Paper](http://arxiv.org/abs/2405.09493)
 
 Forthcoming
 
@@ -39,7 +39,7 @@ slower than our proposed method.
 **Tiffany Cai**, Hongseok Namkoong, Daniel Russo, Kelly W Zhang (authors listed in alphabetical order, project led by Kelly and Tiffany)
 
 
-[Paper link](https://arxiv.org/abs/2405.19466)
+[Paper](https://arxiv.org/abs/2405.19466)
 
 Poster at [Neurips 2024 Workshop: Bayesian Decision-Making and Uncertainty](https://gp-seminar-series.github.io/neurips-2024/)
 and talk at [2024 Economics and AI+ML Meeting](https://www.econometricsociety.org/regional-activities/schedule/2024/08/13/2024-ESIFEconomics-and-AIML-Meeting)
@@ -58,7 +58,7 @@ demonstrate on a news recommendation setting with text covariates.
 ## Diagnosing Model Performance Under Distribution Shift
 **Tiffany Cai**, Steve Yadlowsky, Hongseok Namkoong
 
-[Paper link](https://arxiv.org/abs/2303.02011), [GitHub link](https://github.com/namkoong-lab/disde), [Slides](https://docs.google.com/presentation/d/13KIGSJtxpqnEbdkPgGM9Hi-Eqw3hmOt5nigzZ-rkFWk/edit?usp=sharing)
+[Paper](https://arxiv.org/abs/2303.02011), [GitHub](https://github.com/namkoong-lab/disde), [Slides](https://docs.google.com/presentation/d/13KIGSJtxpqnEbdkPgGM9Hi-Eqw3hmOt5nigzZ-rkFWk/edit?usp=sharing)
 
 Under revision at [Operations
 Research](https://pubsonline.informs.org/journal/opre); presented at [FORC 2023](https://responsiblecomputing.org/forc-2023/), [INFORMS 2023](https://meetings.informs.org/wordpress/phoenix2023/)
@@ -75,6 +75,6 @@ X shifts and Y|X shifts. We demonstrate its utility in settings with tabular and
 ## Tutorial: Modeling and Exploiting Data Heterogeneity under Distribution Shifts
 Jiashuo Liu, **Tiffany Cai**, Peng Cui, Hongseok Namkoong
 
-[Tutorial link](https://neurips.cc/virtual/2023/tutorial/73953)
+[Tutorial](https://neurips.cc/virtual/2023/tutorial/73953)
 
 Presented at NeurIPS 2023
