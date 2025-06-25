@@ -16,11 +16,6 @@ author_profile: true
 
 [Paper](http://arxiv.org/abs/2405.09493)
 
-Forthcoming
-
-Poster at [CODE@MIT
-2024](https://ide.mit.edu/events/code24/)
-and [ACIC 2024](https://sci-info.org/annual-meeting/)
 <details>
   <summary>Summary</summary>
 In challenging settings with limited overlap between treatment and control, causal estimators with
@@ -34,6 +29,11 @@ We also include a theoretical example in which existing methods with desirable a
 slower than our proposed method. 
 </details>
 
+Submitted; poster at [CODE@MIT
+2024](https://ide.mit.edu/events/code24/)
+and [ACIC 2024](https://sci-info.org/annual-meeting/)
+
+
 
 ## Active Exploration via Autoregressive Generation of Missing Data
 **Tiffany Cai\***, Hongseok Namkoong, Daniel Russo, Kelly W Zhang\* (* denotes co-leading)
@@ -41,8 +41,6 @@ slower than our proposed method.
 
 [Paper](https://arxiv.org/abs/2405.19466)
 
-Poster at [Neurips 2024 Workshop: Bayesian Decision-Making and Uncertainty](https://gp-seminar-series.github.io/neurips-2024/)
-and talk at [2024 Economics and AI+ML Meeting](https://www.econometricsociety.org/regional-activities/schedule/2024/08/13/2024-ESIFEconomics-and-AIML-Meeting)
 <details>
   <summary>Summary</summary>
 We propose a scalable solution to the problem of decision-making under uncertainty in a meta-bandit
@@ -53,6 +51,8 @@ We prove decision-making performance is controlled by the log loss of the genera
 demonstrate on a news recommendation setting with text covariates.
 </details>
 
+Submitted; poster at [Neurips 2024 Workshop: Bayesian Decision-Making and Uncertainty](https://gp-seminar-series.github.io/neurips-2024/)
+and talk at [2024 Economics and AI+ML Meeting](https://www.econometricsociety.org/regional-activities/schedule/2024/08/13/2024-ESIFEconomics-and-AIML-Meeting)
 
 
 ## Diagnosing Model Performance Under Distribution Shift
@@ -60,8 +60,6 @@ demonstrate on a news recommendation setting with text covariates.
 
 [Paper](https://arxiv.org/abs/2303.02011), [GitHub](https://github.com/namkoong-lab/disde), [Slides](https://docs.google.com/presentation/d/13KIGSJtxpqnEbdkPgGM9Hi-Eqw3hmOt5nigzZ-rkFWk/edit?usp=sharing)
 
-Under revision at [Operations
-Research](https://pubsonline.informs.org/journal/opre); presented at [FORC 2023](https://responsiblecomputing.org/forc-2023/), [INFORMS 2023](https://meetings.informs.org/wordpress/phoenix2023/)
 <details>
   <summary>Summary</summary>
 When your model performs worse out of distribution, should you use a domain adaptation method, or
@@ -70,6 +68,9 @@ do you need to collect more data? If the latter, from where should you collect m
 We propose a new diagnostic using causal inference methods to attribute changes in performance to
 X shifts and Y|X shifts. We demonstrate its utility in settings with tabular and image data.
 </details>
+
+Minor revision at [Operations
+Research](https://pubsonline.informs.org/journal/opre); presented at [FORC 2023](https://responsiblecomputing.org/forc-2023/), [INFORMS 2023](https://meetings.informs.org/wordpress/phoenix2023/)
 
 
 ## Tutorial: Modeling and Exploiting Data Heterogeneity under Distribution Shifts
