@@ -36,7 +36,7 @@ slower than our proposed method.
 
 
 ## Active Exploration via Autoregressive Generation of Missing Data
-**Tiffany Cai**, Hongseok Namkoong, Daniel Russo, Kelly W Zhang (authors listed in alphabetical order, project led by Kelly and Tiffany)
+**Tiffany Cai\***, Hongseok Namkoong, Daniel Russo, Kelly W Zhang\* (* denotes co-leading)
 
 
 [Paper](https://arxiv.org/abs/2405.19466)
