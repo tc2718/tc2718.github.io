@@ -11,7 +11,7 @@ author_profile: true
 
 {% include base_path %}
 
-## Constrained Learning for Causal Inference and Semiparametric Statistics
+## Constrained Learning for Causal Inference (job market paper)
 **Tiffany Cai\***, Yuri Fonseca\*, Kaiwen Hou, Hongseok Namkoong (* denotes co-first authorship)
 
 [Paper link](http://arxiv.org/abs/2405.09493)
@@ -27,8 +27,11 @@ In challenging settings with limited overlap between treatment and control, caus
 desirable asymptotic properties require ad hoc adjustments in order to produce stable estimates. In
 contrast, simple plug-in estimators produce stable estimates but lack important asymptotic properties.
 
-We propose a new estimation framework, using constrained optimization, that combines the best of
-both worlds, and demonstrate its superior performance across settings, including with text covariates.
+We propose a new estimation framework based on constrained optimization, that combines the best of
+both worlds, and we demonstrate its superior empirical performance across several settings.
+Our framework is compatible with modern machine learning, and we include settings with text covariates. 
+We also include a theoretical example in which existing methods with desirable asymptotic properties converge
+slower than our proposed method. 
 </details>
 
 
