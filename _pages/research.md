@@ -58,8 +58,7 @@ demonstrate on a news recommendation setting with text covariates.
 ## Diagnosing Model Performance Under Distribution Shift
 **Tiffany Cai**, Steve Yadlowsky, Hongseok Namkoong
 
-[Paper link](https://arxiv.org/abs/2303.02011), [GitHub link](https://github.com/namkoong-lab/disde)
-
+[Paper link](https://arxiv.org/abs/2303.02011), [GitHub link](https://github.com/namkoong-lab/disde), [Slides](https://docs.google.com/presentation/d/13KIGSJtxpqnEbdkPgGM9Hi-Eqw3hmOt5nigzZ-rkFWk/edit?usp=sharing)
 
 Under revision at [Operations
 Research](https://pubsonline.informs.org/journal/opre); presented at [FORC 2023](https://responsiblecomputing.org/forc-2023/), [INFORMS 2023](https://meetings.informs.org/wordpress/phoenix2023/)
