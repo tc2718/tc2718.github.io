@@ -25,11 +25,9 @@ contrast, simple plug-in estimators produce stable estimates but lack important 
 We propose a new estimation framework based on constrained optimization, that combines the best of
 both worlds, and we demonstrate its superior empirical performance across several settings.
 Our framework is compatible with modern machine learning, and we include settings with text covariates. 
-We also include a theoretical example in which existing methods with desirable asymptotic properties converge
-slower than our proposed method. 
 </details>
 
-Submitted; poster at [CODE@MIT
+Forthcoming; poster at [CODE@MIT
 2024](https://ide.mit.edu/events/code24/)
 and [ACIC 2024](https://sci-info.org/annual-meeting/)
 
