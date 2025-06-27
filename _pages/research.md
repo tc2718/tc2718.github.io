@@ -14,7 +14,7 @@ author_profile: true
 ## Constrained Learning for Causal Inference (job market paper)
 **Tiffany Cai\***, Yuri Fonseca\*, Kaiwen Hou, Hongseok Namkoong (* denotes co-first authorship)
 
-[Paper](http://arxiv.org/abs/2405.09493)
+[Paper](../assets/clearner.pdf)
 
 <details>
   <summary>Summary</summary>
