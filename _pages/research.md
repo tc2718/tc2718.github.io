@@ -11,10 +11,34 @@ author_profile: true
 
 {% include base_path %}
 
-## Constrained Learning for Causal Inference (job market paper)
+## Diagnosing Model Performance Under Distribution Shift
+**Tiffany Cai**, Steve Yadlowsky, Hongseok Namkoong
+
+[Paper](https://arxiv.org/abs/2303.02011), [GitHub](https://github.com/namkoong-lab/disde), [Slides](https://docs.google.com/presentation/d/13KIGSJtxpqnEbdkPgGM9Hi-Eqw3hmOt5nigzZ-rkFWk/edit?usp=sharing)
+
+<details>
+  <summary>Summary</summary>
+When your model performs worse out of distribution, should you use a domain adaptation method, or
+do you need to collect more data? If the latter, from where should you collect more data?
+
+We propose a new diagnostic using causal inference methods to attribute changes in performance to
+X shifts and Y|X shifts. We demonstrate its utility in settings with tabular and image data.
+</details>
+
+Accepted at [Operations
+Research](https://pubsonline.informs.org/journal/opre); presented at [FORC 2023](https://responsiblecomputing.org/forc-2023/), [INFORMS 2023](https://meetings.informs.org/wordpress/phoenix2023/)
+
+## Contextual Thompson Sampling via Generation of Missing Data
+Kelly W. Zhang, **Tiffany Cai**, Hongseok Namkoong, Dan Russo
+
+[Paper](https://arxiv.org/abs/2502.07064)
+
+Accepted at NeurIPS 2025
+
+## Constrained Learning for Causal Inference
 **Tiffany Cai\***, Yuri Fonseca\*, Kaiwen Hou, Hongseok Namkoong (* denotes co-first authorship)
 
-[Paper](../assets/clearner.pdf)
+[Paper](https://arxiv.org/abs/2405.09493)
 
 <details>
   <summary>Summary</summary>
@@ -27,7 +51,7 @@ both worlds, and we demonstrate its superior empirical performance across severa
 Our framework is compatible with modern machine learning, and we include settings with text covariates. 
 </details>
 
-Forthcoming; poster at [CODE@MIT
+Submitted; poster at [CODE@MIT
 2024](https://ide.mit.edu/events/code24/)
 and [ACIC 2024](https://sci-info.org/annual-meeting/)
 
@@ -53,22 +77,6 @@ Submitted; poster at [Neurips 2024 Workshop: Bayesian Decision-Making and Uncert
 and talk at [2024 Economics and AI+ML Meeting](https://www.econometricsociety.org/regional-activities/schedule/2024/08/13/2024-ESIFEconomics-and-AIML-Meeting)
 
 
-## Diagnosing Model Performance Under Distribution Shift
-**Tiffany Cai**, Steve Yadlowsky, Hongseok Namkoong
-
-[Paper](https://arxiv.org/abs/2303.02011), [GitHub](https://github.com/namkoong-lab/disde), [Slides](https://docs.google.com/presentation/d/13KIGSJtxpqnEbdkPgGM9Hi-Eqw3hmOt5nigzZ-rkFWk/edit?usp=sharing)
-
-<details>
-  <summary>Summary</summary>
-When your model performs worse out of distribution, should you use a domain adaptation method, or
-do you need to collect more data? If the latter, from where should you collect more data?
-
-We propose a new diagnostic using causal inference methods to attribute changes in performance to
-X shifts and Y|X shifts. We demonstrate its utility in settings with tabular and image data.
-</details>
-
-Minor revision at [Operations
-Research](https://pubsonline.informs.org/journal/opre); presented at [FORC 2023](https://responsiblecomputing.org/forc-2023/), [INFORMS 2023](https://meetings.informs.org/wordpress/phoenix2023/)
 
 
 ## Tutorial: Modeling and Exploiting Data Heterogeneity under Distribution Shifts
