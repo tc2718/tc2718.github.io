@@ -31,7 +31,7 @@ Research](https://pubsonline.informs.org/journal/opre) (2025); presented at [FOR
 ## Contextual Thompson Sampling via Generation of Missing Data
 Kelly W. Zhang, **Tiffany Cai**, Hongseok Namkoong, Dan Russo
 
-[Paper](https://arxiv.org/abs/2502.07064)
+[Paper](https://openreview.net/forum?id=Fqsl9IfbfJ), [Poster](https://neurips.cc/virtual/2025/loc/san-diego/poster/119009)
 
 Accepted at NeurIPS 2025
 
@@ -77,11 +77,6 @@ Submitted; poster at [Neurips 2024 Workshop: Bayesian Decision-Making and Uncert
 and talk at [2024 Economics and AI+ML Meeting](https://www.econometricsociety.org/regional-activities/schedule/2024/08/13/2024-ESIFEconomics-and-AIML-Meeting)
 
 
-## Contextual Thompson Sampling via Generation of Missing Data
-
-
-[Paper](https://openreview.net/forum?id=Fqsl9IfbfJ), [Poster](https://neurips.cc/virtual/2025/loc/san-diego/poster/119009)
-
 
 ## Approximate posterior recalibration
 **Tiffany Cai**, Philip Greengard, Ben Goodrich, Andrew Gelman
@@ -89,7 +84,7 @@ and talk at [2024 Economics and AI+ML Meeting](https://www.econometricsociety.or
 
 [Paper](https://arxiv.org/abs/2603.20068)
 
-Submitted
+Under review at JMLR
 
 
 ## Tutorial: Modeling and Exploiting Data Heterogeneity under Distribution Shifts
