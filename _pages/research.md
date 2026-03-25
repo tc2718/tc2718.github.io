@@ -26,7 +26,7 @@ X shifts and Y|X shifts. We demonstrate its utility in settings with tabular and
 </details>
 
 Accepted at [Operations
-Research](https://pubsonline.informs.org/journal/opre); presented at [FORC 2023](https://responsiblecomputing.org/forc-2023/), [INFORMS 2023](https://meetings.informs.org/wordpress/phoenix2023/)
+Research](https://pubsonline.informs.org/journal/opre) (2025); presented at [FORC 2023](https://responsiblecomputing.org/forc-2023/), [INFORMS 2023](https://meetings.informs.org/wordpress/phoenix2023/)
 
 ## Contextual Thompson Sampling via Generation of Missing Data
 Kelly W. Zhang, **Tiffany Cai**, Hongseok Namkoong, Dan Russo
@@ -77,6 +77,19 @@ Submitted; poster at [Neurips 2024 Workshop: Bayesian Decision-Making and Uncert
 and talk at [2024 Economics and AI+ML Meeting](https://www.econometricsociety.org/regional-activities/schedule/2024/08/13/2024-ESIFEconomics-and-AIML-Meeting)
 
 
+## Contextual Thompson Sampling via Generation of Missing Data
+
+
+[Paper](https://openreview.net/forum?id=Fqsl9IfbfJ), [Poster](https://neurips.cc/virtual/2025/loc/san-diego/poster/119009)
+
+
+## Approximate posterior recalibration
+**Tiffany Cai**, Philip Greengard, Ben Goodrich, Andrew Gelman
+
+
+[Paper](https://arxiv.org/abs/2603.20068)
+
+Submitted
 
 
 ## Tutorial: Modeling and Exploiting Data Heterogeneity under Distribution Shifts
