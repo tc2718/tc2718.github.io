@@ -11,6 +11,6 @@ I am advised by [Hongseok Namkoong](https://hsnamkoong.github.io/).
 
 I am interested in the intersection of machine learning, distribution shift, causal inference, bayesian statistics, and decision making.
 
-I will be graduating in May 2026.
+I will be joining Hudson River Trading in August 2026. 
 
 Please feel free to get in touch!
